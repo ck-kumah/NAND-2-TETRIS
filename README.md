@@ -1,9 +1,42 @@
-THIS REPO CONTAINS MY HDL FILES AND OTHER PROJECT FILES FOR THE NAND TO TETRIS HARDWARE COURSE I AM TAKING.
+# NAND to Tetris Projects
+This repository contains my HDL implementations and other project files
+from the NAND to Tetris hardware course.
 
-MY PROJECT JOURNEY SO FAR:
-PROJECT 1-DESIGN OF BASIC LOGIC GATES FROM NAND GATES IN NAND TO TETRIS HDL.I DESIGNED MUX,OR,XOR,MUX,DMUX
-PROJECT 2-DESIGN OF ARITHMETIC CIRCUITS SUCH AS THE ALU,HALF AND FULL ADDERS AND INCREMENTOR.
-PROJECT 3-DESIGN OF MEMORY CIRCUIT SUCH AS 1BIT DATA FLIP-FLOP,16BIT REGISTER,RAM
+The projects document my progression in building a computer system from
+fundamental NAND gates to more complex digital hardware components.
 
-THROUGH THE NAND TO TETRIS COURSE,I HAVE GAINED AN UNDERTANDING OF HDL PROGRAMMING.
-I INTEND TO IMPLEMENT THIS PROJECT ALSO IN INDUSTRY RELATED HDL LIKE VERILOG
+Project Progress:
+### Project 1 — Boolean Logic
+Designed basic logic gates from NAND gates using HDL.
+
+Components implemented include:
+- NOT
+- AND
+- OR
+- XOR
+- MUX
+- DMUX
+
+### Project 2 — Boolean Arithmetic
+Designed arithmetic circuits used in the Hack computer.
+
+Components implemented include:
+- Half Adder
+- Full Adder
+- 16-bit Adder
+- Incrementor
+- Arithmetic Logic Unit (ALU)
+
+### Project 3 — Memory
+Designed sequential logic and memory components.
+
+Components implemented include:
+- 1-bit Data Flip-Flop
+- 16-bit Register
+- RAM
+- Program Counter
+
+Through these projects, I aim to strengthen my understanding of digital
+logic and computer architecture by learning how increasingly complex
+hardware systems can be constructed from simple logic gates.
+
