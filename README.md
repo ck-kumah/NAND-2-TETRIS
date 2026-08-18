@@ -1,12 +1,12 @@
-# NAND to Tetris Projects
 This repository contains my HDL implementations and other project files
 from the NAND to Tetris hardware course.
 
 The projects document my progression in building a computer system from
 fundamental NAND gates to more complex digital hardware components.
 
-Project Progress:
-### Project 1 — Boolean Logic
+Project Progress
+
+Project 1: Boolean Logic
 Designed basic logic gates from NAND gates using HDL.
 
 Components implemented include:
@@ -17,7 +17,7 @@ Components implemented include:
 - MUX
 - DMUX
 
-### Project 2 — Boolean Arithmetic
+Project 2: Boolean Arithmetic
 Designed arithmetic circuits used in the Hack computer.
 
 Components implemented include:
@@ -27,7 +27,7 @@ Components implemented include:
 - Incrementor
 - Arithmetic Logic Unit (ALU)
 
-### Project 3 — Memory
+Project 3: Memory
 Designed sequential logic and memory components.
 
 Components implemented include:
